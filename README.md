@@ -1,2 +1,10 @@
 # C-Programs-with-Solutions-by-S.-ANANDAMURUGAN
-These programs that support the theoretical concepts are given in a large number to help students understand the concepts better. This book will be useful for students of BE, MCA, BCA, MSc, and BSc, which have C program-ming language as a part of the course. 
+     This book gives a rich collection of C programs. 
+        The first chapter deals with the fundamental concepts of C language. 
+        The second chapter focuses on introduction C programming. 
+        The third chapter provides with detailed program on next level to the basic C program. 
+        Fourth chapter focuses on C debugging. 
+        The fifth chapter deals with the simple C questions and Answers. 
+        Sixth chapter deals with the short questions and answers. 
+  
+The main aim of this book is to give maximum guidance to the students, faculty and research scholars. 
